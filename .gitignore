@@ -1,0 +1,8 @@
+*.py[co]
+.*.swp
+build/*
+dist/
+python_memoize.egg-info/*
+.eggs/*
+.coverage
+env
